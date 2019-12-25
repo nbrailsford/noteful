@@ -1,0 +1,26 @@
+.note {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 60%;
+  float: right;
+  margin: 10px;
+  padding: 10px;
+}
+
+h2 {
+  align-self: center;
+}
+
+.deleteButton {
+  align-self: flex-end;
+  justify-self: end;
+  width: 100px;
+  height: 40px;
+  margin-left: auto;
+}
+
+p {
+  align-self: flex-start;
+}

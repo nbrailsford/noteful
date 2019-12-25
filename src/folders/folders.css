@@ -1,0 +1,18 @@
+.folders {
+  border: 1px solid black;
+  width: 30%;
+  height: 100vh;
+}
+
+.folder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  height: 40px;
+  font-size: 16px;
+}
+
+.blue {
+  background-color: aqua;
+}
